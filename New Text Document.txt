@@ -1,0 +1,17 @@
+
+        <!--=============== BOXICONS ===============-->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+
+        <!--=============== CSS ===============-->
+        <link rel="stylesheet" href="assets/css/styles.css">
+
+
+
+
+body
+
+
+
+
+        <!--=============== MAIN JS ===============-->
+        <script src="assets/js/main.js"></script>
